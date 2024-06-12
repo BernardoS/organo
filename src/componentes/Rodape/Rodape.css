@@ -1,0 +1,16 @@
+footer.rodape{
+    background-color:#6278F7;
+    display:flex;
+    color:#FFF;
+    justify-content:space-between;
+    align-items:center;
+    height: 213px;
+    padding: 0px 5rem;
+}
+.social-media{
+    display:flex;
+    gap:35px;
+}
+.social-media img{
+    height:35px;
+}
